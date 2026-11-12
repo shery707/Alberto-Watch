@@ -1,0 +1,14 @@
+Test ID,Input,Expected Result
+T01,Open index.html,Website loads
+T02,Select Luxury,Only Luxury products shown
+T03,Select Clocks,Clock products shown
+T04,Search Rolex,Rolex product shown
+T05,Sort low to high,Ascending prices
+T06,Open product card,Product details popup opens
+T07,Open price list,All sample products listed
+T08,Click gallery image,Image modal opens
+T09,Submit empty contact form,Required validation shown
+T10,Submit valid contact form,Demo confirmation shown
+T11,Reload website,Local visitor count increments
+T12,Click location ticker,Geolocation permission requested
+T13,Open on mobile,Responsive layout shown
